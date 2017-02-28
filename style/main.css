@@ -779,51 +779,51 @@ hr {
     height: 100%; }
 
 .cell-2 {
-  background: #474a45;
+  background: #bbada0;
   box-shadow: 0 0 60px 5px rgba(83, 138, 74, 0), inset 0 0 0 1px rgba(255, 255, 255, 0); }
 
 .cell-4 {
-  background: #1c3812;
+  background: #bbada0;
   box-shadow: 0 0 30px 5px rgba(79, 242, 53, 0), inset 0 0 0 1px rgba(255, 255, 255, 0); }
 
 .cell-8 {
-  color: #8e9c85;
+  color: #bbada0;
   background: #27620d; }
 
 .cell-16 {
-  color: #8e9c85;
+  color: #bbada0;
   background: #33760c; }
 
 .cell-32 {
-  color: #8e9c85;
+  color: #bbada0;
   background: #3e810b; }
 
 .cell-64 {
-  color: #8e9c85;
+  color: #bbada0;
   background: #4ea00d; }
 
 .cell-128 {
-  color: #8e9c85;
+  color: #bbada0;
   background: #228b0f;
   box-shadow: 0 0 30px 5px rgba(79, 242, 53, 0.2381), inset 0 0 0 1px rgba(255, 255, 255, 0.14286); }
 
 .cell-256 {
-  color: #8e9c85;
+  color: #bbada0;
   background: #239c0e;
   box-shadow: 0 0 30px 5px rgba(79, 242, 53, 0.31746), inset 0 0 0 1px rgba(255, 255, 255, 0.19048); }
 
 .cell-512 {
-  color: #8e9c85;
+  color: #bbada0;
   background: #24ac0e;
   box-shadow: 0 0 30px 5px rgba(79, 242, 53, 0.39683), inset 0 0 0 1px rgba(255, 255, 255, 0.2381); }
 
 .cell-1024 {
-  color: #8e9c85;
+  color: #bbada0;
   background: #25bd0d;
   box-shadow: 0 0 30px 5px rgba(79, 242, 53, 0.47619), inset 0 0 0 1px rgba(255, 255, 255, 0.28571); }
 
 .cell-2048 {
-  color: #8e9c85;
+  color: #bbada0;
   background: #27ce0d;
   box-shadow: 0 0 30px 5px rgba(79, 242, 53, 0.55556), inset 0 0 0 1px rgba(255, 255, 255, 0.33333); }
 
