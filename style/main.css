@@ -140,6 +140,53 @@ hr {
 
   100% {
     opacity: 1; } }
+.button {
+   border: 3px solid #7a1f1f;
+   background: #849408;
+   background: -webkit-gradient(linear, left top, left bottom, from(#853c0c), to(#849408));
+   background: -webkit-linear-gradient(top, #853c0c, #849408);
+   background: -moz-linear-gradient(top, #853c0c, #849408);
+   background: -ms-linear-gradient(top, #853c0c, #849408);
+   background: -o-linear-gradient(top, #853c0c, #849408);
+   background-image: -ms-linear-gradient(top, #853c0c 0%, #849408 100%);
+   padding: 9.5px 19px;
+   -webkit-border-radius: 7px;
+   -moz-border-radius: 7px;
+   border-radius: 7px;
+   -webkit-box-shadow: rgba(255,255,255,0.4) 0 1px 0, inset rgba(255,255,255,0.4) 0 1px 0;
+   -moz-box-shadow: rgba(255,255,255,0.4) 0 1px 0, inset rgba(255,255,255,0.4) 0 1px 0;
+   box-shadow: rgba(255,255,255,0.4) 0 1px 0, inset rgba(255,255,255,0.4) 0 1px 0;
+   text-shadow: #c9e2f2 0 1px 0;
+   color: #ffffff;
+   font-size: 16px;
+   font-family: helvetica, serif;
+   text-decoration: none;
+   vertical-align: middle;
+   }
+.button:hover {
+   border: 3px solid #ff0000;
+   text-shadow: #ff0000 0 1px 0;
+   background: #313233;
+   background: -webkit-gradient(linear, left top, left bottom, from(#000000), to(#313233));
+   background: -webkit-linear-gradient(top, #000000, #313233);
+   background: -moz-linear-gradient(top, #000000, #313233);
+   background: -ms-linear-gradient(top, #000000, #313233);
+   background: -o-linear-gradient(top, #000000, #313233);
+   background-image: -ms-linear-gradient(top, #000000 0%, #313233 100%);
+   color: #ff0000;
+   }
+.button:active {
+   text-shadow: #000000 0 1px 0;
+   border: 3px solid #000000;
+   background: #990202;
+   background: -webkit-gradient(linear, left top, left bottom, from(#ff0000), to(#313233));
+   background: -webkit-linear-gradient(top, #ff0000, #990202);
+   background: -moz-linear-gradient(top, #ff0000, #990202);
+   background: -ms-linear-gradient(top, #ff0000, #990202);
+   background: -o-linear-gradient(top, #ff0000, #990202);
+   background-image: -ms-linear-gradient(top, #ff0000 0%, #990202 100%);
+   color: #000000;
+   }
 .game-container {
   margin-top: 40px;
   position: relative;
